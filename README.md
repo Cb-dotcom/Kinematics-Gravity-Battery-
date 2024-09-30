@@ -1,9 +1,8 @@
 # Kinematics Gravity Battery Project
 
-<video width="640" height="480" controls>
-  <source src="GravityBatteryProject/Project/Proof of concept.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Gravity Battery Prototype](GravityBatteryProject/Project/photo.jpg)
+## Proof of Concept
+[Watch the Proof of Concept Video](GravityBatteryProject/Project/Proof%20of%20concept.mp4)
 
 ## Introduction
 
